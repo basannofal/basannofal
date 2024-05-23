@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there 👋
 
 Welcome to my GitHub profile! I'm **Nofal Basan** (he/him).
@@ -26,12 +25,12 @@ I am a **Full Stack Developer** currently working at **Valudas Tech Park**. With
 - Networking with like-minded developers
 
 ### 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Nofal Basan](https://www.linkedin.com/in/nofalbasan/)
+- Email: [nofal@codinghelps.com](mailto:nofal@codinghelps.com)
+- LinkedIn: [Nofal Basan](https://www.linkedin.com/in/nofal-basan-7a6b65232/)
 - Twitter: [@nofalbasan](https://twitter.com/nofalbasan)
 
 ### ⚡ Fun Fact
-- When I'm not coding, you can find me exploring the latest tech trends, playing chess, or enjoying a good book.
+- When I'm not coding, you can find me exploring the latest tech trends, playing Cricket, or enjoying a good book.
 
 ---
 
